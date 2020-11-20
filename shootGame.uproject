@@ -2,5 +2,15 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{0829B46D-4FBC-8E50-5DFB-84A1E70A6378}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "shootGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
 }
