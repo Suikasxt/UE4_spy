@@ -18,8 +18,15 @@
 + 安装包：https://cloud.tsinghua.edu.cn/f/1411fd96dcf749119a07/
 + 视频：https://cloud.tsinghua.edu.cn/f/ea0613e6695a44b29951/
 
-### 第四次作业：
+### 第五次作业：
 
 + 安装包：https://cloud.tsinghua.edu.cn/f/a609f25294e24d2ea9b3/
 + 视频：https://cloud.tsinghua.edu.cn/f/7cdb8bef322948afa552/
 + 不同材质地面未完成，音效未添加
+
+### 第六次作业
+
++ 安装包：https://cloud.tsinghua.edu.cn/f/a22ce89da62d42beae4e/
+
++ 视频：https://cloud.tsinghua.edu.cn/f/e209ed0563e643f3b1bf/
+
