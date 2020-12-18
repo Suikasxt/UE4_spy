@@ -30,3 +30,8 @@
 
 + 视频：https://cloud.tsinghua.edu.cn/f/e209ed0563e643f3b1bf/
 
+### 第七次作业
+
++ 安装包：https://cloud.tsinghua.edu.cn/f/e9520ef164484e55860d/
++ 视频：https://cloud.tsinghua.edu.cn/f/b47302eeab834a23992b/
+
